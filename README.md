@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rschreck
-- 👀 I’m interested in JS, React, Node & Graphql
+- 👀 I’m interested in TS, JS, React, Node & Graphql
 - 🌱 I’m currently learning more advanced JS
 - 💞️ I’m looking to collaborate on JS programming
 - 📫 How to reach me schrer3@gmail.com
